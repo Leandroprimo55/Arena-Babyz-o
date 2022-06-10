@@ -1,0 +1,72 @@
+body{
+	background: #A4A4A4;
+	font: 16px arial, helvetica, sans-serif;
+}
+
+#area-cabecalho{
+	background: #f7b600;
+	padding: 20px;
+	text-align: center;
+	margin:5px;
+}
+
+#principal{	width: 750px ;}
+
+#menu{ 
+	background:#f7b600; 
+	padding: 30px;
+	margin: 0px;
+	text-align: left;
+	text-decoration: none;
+}
+
+#conteudo{
+	background:#c5c5b2;
+	padding: 20px;
+	margin: 5px;
+
+		}
+
+h1{ color: #2E2E2E; 
+	font-size: 1.3em;}		  
+
+a{	color:#4b566a;
+	text-decoration: none;
+	font-weight:bold;
+	padding: 10px;}
+
+p{  color:#FA5858;
+	font-size: 1.5em;
+	padding: 10px;
+
+}
+
+.galeria{
+	width: 250px; 
+	height: 200px;
+
+}	
+
+.foto{
+	background:;
+	padding: 15px;
+	text-align: center;
+	float: unset;
+}
+
+.rodape{
+	
+	text-align: center;
+	padding: 20px;
+	background: #ccc;
+	
+}
+
+a:link{
+	color: black;
+}
+
+a:hover{
+	color: white;
+}
+
